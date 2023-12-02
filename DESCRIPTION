@@ -1,6 +1,6 @@
 Package: mineSweepR
 Title: Mine Sweeper Game
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person("Xiurui", "Zhu", , "zxr6@163.com", role = c("aut", "cre"),
            comment = NULL)
@@ -12,8 +12,8 @@ Imports: ComplexHeatmap, InteractiveComplexHeatmap, dplyr, grid,
         gsignal, mgc, mmand, hms, rlang, pals
 Collate: 'utils.R' 'main.R' 'mineSweepR-package.R'
 NeedsCompilation: no
-Packaged: 2023-10-06 14:18:39 UTC; Xiurui Zhu
+Packaged: 2023-12-02 11:20:05 UTC; Xiurui Zhu
 Author: Xiurui Zhu [aut, cre]
 Maintainer: Xiurui Zhu <zxr6@163.com>
 Repository: CRAN
-Date/Publication: 2023-10-09 12:50:02 UTC
+Date/Publication: 2023-12-02 11:50:10 UTC

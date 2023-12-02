@@ -15,8 +15,8 @@ stats](https://cranlogs.r-pkg.org/badges/grand-total/mineSweepR)](https://CRAN.R
 <!-- badges: end -->
 
 **Package**: [*mineSweepR*](https://github.com/zhuxr11/mineSweepR)
-0.1.0<br /> **Author**: Xiurui Zhu<br /> **Modified**: 2023-10-06
-21:55:11<br /> **Compiled**: 2023-10-06 21:55:21
+0.1.1<br /> **Author**: Xiurui Zhu<br /> **Modified**: 2023-10-14
+15:22:11<br /> **Compiled**: 2023-12-02 18:48:53
 
 **Let’s have fun with R!** This is the very popular mine sweeper game!
 In this game, you are required to find out tiles that contain mines
